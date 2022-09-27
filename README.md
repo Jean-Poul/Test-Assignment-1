@@ -1,7 +1,9 @@
 # Test assignment 1  
 
+## Frameworks:  
+The following two examples have been made with TDD and BDD with help of JUnit, TestNG and Cucumber. 
   
-## TODO:  
+#### TODO:  
 Cucumber seem to be caching the same feature files ascross all of them. Fix bug if I have time.
 Furthermore, I could use the newer dependencies from cucumber.io:  
 `code  
@@ -28,3 +30,4 @@ Furthermore, I could use the newer dependencies from cucumber.io:
 #### Working solution for Spring Boot  
 See following link: [Spring boot](https://github.com/tobias-z/assignment-testola1)  
 
+High five :)
