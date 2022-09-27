@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/jplm/Desktop/Softwareudvikler/Test/Assignments/Assignment-1/Assignment-1">
+        <classes>
+            <class name="dk.jplm.test.assignment1.Assignment1ApplicationTests">
+                <methods>
+                    <include name="contextLoads"/>
+                </methods>
+            </class>
+            <class name="Runners.Run"></class>
+        </classes>
+    </test>
+</suite>
