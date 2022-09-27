@@ -4,7 +4,7 @@
 The two project examples have been made with TDD and BDD with help of JUnit, TestNG and Cucumber. 
   
 #### TODO:  
-Cucumber seem to have caching the same feature files ascross all of them. Fix bug if I have time.
+Cucumber seem to be caching the same feature files ascross all of them. Fix bug if I have time.
 Furthermore, I could use the newer dependencies from cucumber.io:  
 ```   
 		<dependency>
